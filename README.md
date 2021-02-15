@@ -1,7 +1,7 @@
 # 2D-Maze-Solving  
 
 
-# The maze  
+# The Maze Code  
 The python code of the 2-D maze is in the following link:  
 LINK: https://drive.google.com/file/d/13DU6uMMrMKL7Tdu9oFV-XWGpgvLeTO9P/view?usp=sharing  
 
