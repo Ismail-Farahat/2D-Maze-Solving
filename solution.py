@@ -91,8 +91,7 @@ while(True):
     print("X: " + str(currentX) + " Y: " + str(currentY) + " Angle: " + str(angle))
 
     ######################### GAME LOOP ###############################
-    ################## WRITE YOUR CODE BELOW ##########################
-
+  
     #finish the loop once reach the finish
     if (currentX,currentY) == finish:
         print("Max coins that could be collected is ",collected_coins)
